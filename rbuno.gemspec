@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'rbuno'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2020-04-28'
   s.summary     = "Ruby Uno!"
   s.description = "A simple ruby gem"
